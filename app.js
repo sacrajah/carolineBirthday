@@ -22,8 +22,8 @@ const weekdays = [
   "Friday",
   "Saturday",
 ];
-//  const photos = ['caroline1.jpeg', 'caroline2.jpeg','caroline3.jpeg','carolline4.jpeg','caroline5.jpeg','caroline6.jpeg','caroline7.jpeg'];
- const photos = ['img/caroline1.jpeg', 'img/caroline2.jpeg','img/caroline3.jpeg','img/carolline4.jpeg','img/caroline5.jpeg','img/caroline6.jpeg','imng/caroline7.jpeg'];
+  const photos = ['caroline1.jpeg', 'caroline2.jpeg','caroline3.jpeg','carolline4.jpeg','caroline5.jpeg','caroline6.jpeg','caroline7.jpeg'];
+ //const photos = ['img/caroline1.jpeg', 'img/caroline2.jpeg','img/caroline3.jpeg','img/carolline4.jpeg','img/caroline5.jpeg','img/caroline6.jpeg','imng/caroline7.jpeg'];
 
 const giveaway = document.querySelector(".giveaway");
 const deadline = document.querySelector(".deadline");
