@@ -107,7 +107,7 @@ function format(item) {
     
   });
 }
-
+//was
 // if(t<0) {
 //     clearInterval(countdown)
 //     deadline.innerHTML =' <h4 class="expired> this birthday is oer </h4> '
